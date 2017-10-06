@@ -11,8 +11,6 @@
 //  You should have received a copy of the GNU General Public License
 //  along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-//  Created by Tadeu Cruz on 23/05/17.
-
 #include <CoreFoundation/CoreFoundation.h>
 #include <Carbon/Carbon.h>
 #include <IOKit/hid/IOHIDLib.h>

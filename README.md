@@ -1,6 +1,6 @@
 # hid-led-devastator-II
 
-Make the Cooler Master - Devastator II Led's works in macOS
+Make the Cooler Master - Devastator II LED's works in macOS
 
 ![alt text](http://i.imgur.com/rnM9ffm.png)
 
